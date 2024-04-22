@@ -1,0 +1,12 @@
+2024-04-16 12:20:17,701 - INFO - Starting=============
+2024-04-16 12:20:17,701 - INFO - ended. process time: 0.0
+2024-04-16 12:20:17,856 - INFO - Starting=============
+2024-04-16 12:20:17,866 - INFO - ended. process time: 0.006991863250732422
+2024-04-16 12:20:31,809 - INFO - Starting=============
+2024-04-16 12:20:31,812 - INFO - ended. process time: 0.0
+2024-04-16 12:22:05,327 - INFO - Starting=============
+2024-04-16 12:22:05,327 - INFO - ended. process time: 0.0
+2024-04-16 12:22:17,780 - INFO - Starting=============
+2024-04-16 12:22:17,780 - INFO - ended. process time: 0.0
+2024-04-16 12:23:23,452 - INFO - ===Starting App===
+2024-04-16 12:23:23,483 - INFO - ===Starting App===
